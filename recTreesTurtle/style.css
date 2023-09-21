@@ -3,7 +3,8 @@ html, body {
   margin: 5%;
   padding: 0;
   color: green;
-  font-size: x-large;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
 }
 canvas {
   display: block;
@@ -14,4 +15,5 @@ canvas {
   bottom: 10px;
   width: 50%;
   border: 3px solid #8AC007;
+  font-family: 'Courier New', Courier, monospace;
 }
